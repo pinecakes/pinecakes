@@ -1,4 +1,4 @@
-- Hi, I’m @pinecakes
+- Hi, I’m @pinecakes (he/him)
 - I’m interested in Java, SQL, and eventually JavaScript
 - I’m currently learning the fundamentals of Database Administration as well as Java development
 - I’m willing to collaborate on anything suitable for beginners!
